@@ -15,7 +15,7 @@ setup(
     url='https://github.com/mobolic/facebook-sdk',
     license='Apache',
     packages=["facebook"],
-    long_description=open("README.rst").read(),
+    long_description=open("README.md").read(),
     classifiers=[
         'License :: OSI Approved :: Apache Software License',
         'Programming Language :: Python',
